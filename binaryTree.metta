@@ -1,3 +1,4 @@
+
 (= (Node $value $left $right)
   (:: $value $left $right)
 )
@@ -22,5 +23,5 @@
     (Leaf 2)
     (Leaf 3))
 )
-
+;; test case
 ! (Node 1  (Node 2 (Leaf 4 (Leaf 5 Nil))))
