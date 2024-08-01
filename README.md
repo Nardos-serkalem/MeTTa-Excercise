@@ -1,0 +1,1 @@
+LIst operations in MeTTa
