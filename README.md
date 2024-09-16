@@ -1,1 +1,1 @@
-LIst operations in MeTTa
+List Methods
